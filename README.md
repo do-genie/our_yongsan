@@ -13,7 +13,8 @@ Python (haversine, folium, shapely.geometry등 라이브러리 사용)
 - tmap 오픈 api 사용한 지도 및 이동 거리 데이터
 
 #### 분석방법
-  ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d4e837b5-5f2a-4d2d-8689-ff5fb380a622/fbe26b9a-cbf3-48f5-aab1-be1765f6a4b9/Untitled.png)
+  <img width="572" alt="image" src="https://github.com/do-genie/our_yongsan/assets/88036490/d4a20928-3d24-44cc-910c-26cedac25440">
+
 
 - 희망 주거공간과 희망시설과의 거리 입력
     - 개수가 가장 적은 시설을 기준으로 최종 시설을 카테고리별로 1개씩 남긴다.
@@ -30,4 +31,5 @@ Python (haversine, folium, shapely.geometry등 라이브러리 사용)
     3. 최외각 노드 다각형 안에 추천 위치가 속해 있는지
 - 최종 추천 거주지 지도에 표시
 #### 프로젝트 결과
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/d4e837b5-5f2a-4d2d-8689-ff5fb380a622/11379000-6bae-487b-a00d-d9dd3dafc289/Untitled.png)
+<img width="382" alt="image" src="https://github.com/do-genie/our_yongsan/assets/88036490/b8f9b9de-6e54-4e7e-b79f-c8a59f3b5194">
+
